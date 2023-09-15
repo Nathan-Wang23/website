@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Nathan-Wang23.github.io/static/css/main.8541cd55.css",
-    "main.js": "/Nathan-Wang23.github.io/static/js/main.e1d8ab81.js",
-    "static/js/787.fe9ec6bb.chunk.js": "/Nathan-Wang23.github.io/static/js/787.fe9ec6bb.chunk.js",
-    "static/media/nathan_back.jpeg": "/Nathan-Wang23.github.io/static/media/nathan_back.819e2de1c33da561df9f.jpeg",
-    "static/media/bootstrap-icons.woff?": "/Nathan-Wang23.github.io/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/Nathan-Wang23.github.io/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "index.html": "/Nathan-Wang23.github.io/index.html",
-    "main.8541cd55.css.map": "/Nathan-Wang23.github.io/static/css/main.8541cd55.css.map",
-    "main.e1d8ab81.js.map": "/Nathan-Wang23.github.io/static/js/main.e1d8ab81.js.map",
-    "787.fe9ec6bb.chunk.js.map": "/Nathan-Wang23.github.io/static/js/787.fe9ec6bb.chunk.js.map"
+    "main.css": "/website/static/css/main.81034bfb.css",
+    "main.js": "/website/static/js/main.bf7b28a9.js",
+    "static/js/787.fe9ec6bb.chunk.js": "/website/static/js/787.fe9ec6bb.chunk.js",
+    "static/media/nathan_back.jpeg": "/website/static/media/nathan_back.819e2de1c33da561df9f.jpeg",
+    "static/media/bootstrap-icons.woff?": "/website/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/website/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/website/index.html",
+    "main.81034bfb.css.map": "/website/static/css/main.81034bfb.css.map",
+    "main.bf7b28a9.js.map": "/website/static/js/main.bf7b28a9.js.map",
+    "787.fe9ec6bb.chunk.js.map": "/website/static/js/787.fe9ec6bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8541cd55.css",
-    "static/js/main.e1d8ab81.js"
+    "static/css/main.81034bfb.css",
+    "static/js/main.bf7b28a9.js"
   ]
 }
